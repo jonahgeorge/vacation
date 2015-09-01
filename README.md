@@ -1,6 +1,6 @@
 ## vacation
 
-Inspired by a tweet from [@mixonic](https://twitter.com/mixonic/status/638138156718686209), `vacation` is a program to auto-ignore and re-watched repos on Github.
+Inspired by a tweet from [@mixonic](https://twitter.com/mixonic/status/638138156718686209), `vacation` is a program to ignore and re-watch repos on Github.
 
 #### Usage
 
