@@ -15,6 +15,4 @@ Commands:
 
 #### Couldn't this be done by instead disabling Github notifications?
 
-Yes, but who doesn't love building things? Plus, it gave me a reason to learn `[octokit.rb](https://github.com/octokit/octokit.rb)`.
-
-
+Yes, but who doesn't love building things? Plus, it gave me a reason to learn [octokit.rb](https://github.com/octokit/octokit.rb).
